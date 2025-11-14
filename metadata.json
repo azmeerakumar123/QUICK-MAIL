@@ -1,0 +1,5 @@
+{
+  "name": "Copy of QuickMAIL: AI Email Insights",
+  "description": "An intelligent email-analysis application designed to help users understand patterns in their Gmail inbox. It uses AI to automatically read and classify emails, and then generates clear, easy-to-understand statistics and insights on a dashboard.",
+  "requestFramePermissions": []
+}
